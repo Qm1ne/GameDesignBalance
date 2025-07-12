@@ -5,6 +5,7 @@
 Develop a system that simulates matches of Chkoba (including ability usage), and applies machine learning models to analyze performance, discover strategic patterns, and suggest balance adjustments based on player decisions, win rates, and ability counters.
 
 📚 Project Phases & Deliverables
+
 📌 Phase 1 – Match Simulation Engine
 Goal: Create a rule-based engine to play Chkoba matches autonomously with ability triggers.
 
